@@ -1,7 +1,7 @@
 # ⚡ Bem Vindo ao meu Perfil!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&color=00d4ff&height=200&section=header&text=Marcos%20Santt&fontSize=70&animation=fadeIn" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=O%20poder%20da%20imaginação%20nos%20torna%20infinitos.&author=Marcos%20Santt" alt="Quote" />
 </p>
 
 <p align="center">
