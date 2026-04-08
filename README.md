@@ -1,4 +1,4 @@
-# ⚡ Welcome to my Shocking Profile!
+# ⚡ Bem Vindo ao meu Perfil!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=glitch&color=00d4ff&height=200&section=header&text=Marcos%20Santt&fontSize=70&animation=fadeIn" />
